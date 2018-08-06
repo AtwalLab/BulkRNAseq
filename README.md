@@ -11,7 +11,7 @@ The script consists mainly of :
 Get the pipeline run by simply :
 source BulkRNAseq.sh
 
-References and installations :
+References and installations :  
 Kallisto -> https://pachterlab.github.io/kallisto/  
 Sleuth -> https://pachterlab.github.io/sleuth/  
 ComBat -> https://www.bu.edu/jlab/wp-assets/ComBat/Abstract.html  

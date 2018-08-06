@@ -1,6 +1,6 @@
-# Quantifference
+# BulkRNAseq
 
-Quantifference provides a simplified pipeline to analyze bulk RNAseq data.
+BulkRNAseq provides a simplified pipeline to analyze bulk RNAseq data.
 The script consists mainly of :
 
 1) "kallisto quant" for running Kallisto quantification of transcript abundance
@@ -9,4 +9,4 @@ The script consists mainly of :
 4) "ggbiplot.R" for running principal component analysis
 
 Get the pipeline run by simply :
-source quantifference.sh
+source BulkRNAseq.sh

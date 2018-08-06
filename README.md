@@ -12,7 +12,7 @@ Get the pipeline run by simply :
 source BulkRNAseq.sh
 
 References and installations :
-https://pachterlab.github.io/kallisto/
-https://pachterlab.github.io/sleuth/
-https://www.bu.edu/jlab/wp-assets/ComBat/Abstract.html
-https://github.com/vqv/ggbiplot
+Kallisto -> https://pachterlab.github.io/kallisto/  
+Sleuth -> https://pachterlab.github.io/sleuth/  
+ComBat -> https://www.bu.edu/jlab/wp-assets/ComBat/Abstract.html  
+ggbiplot -> https://github.com/vqv/ggbiplot 

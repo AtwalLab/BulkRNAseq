@@ -16,4 +16,4 @@ for (i in 1:length(sample_name)){
 }
 
 write.table(expression,"expression_matrix_pre_batch_correct.txt",quote = F,sep="\t",row.names = F)
-write.table(expression,"output/expression_matrix_pre_batch_correct.txt",quote = F,sep="\t",row.names = F)
+#write.table(expression,"output/expression_matrix_pre_batch_correct.txt",quote = F,sep="\t",row.names = F)

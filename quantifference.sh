@@ -109,13 +109,3 @@ echo '==Continue to other downstream analysis=='
 echo '.........................................'
 
 fi
-
-echo '.........................................'
-echo '==Start Principal Components Analysis=='
-echo '.........................................'
-
-Rscript ggbiplot.R
-
-echo '.........................................'
-echo '==Principal Component Analysis is Finished=='
-echo '.........................................'

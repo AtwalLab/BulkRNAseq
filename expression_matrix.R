@@ -2,7 +2,8 @@
 # Construct expression matrix from Kallisto abundance results 
 
 sample_name<-list.files(path="./output/kallisto",pattern="abundance")
-label<-gsub("_S.*","",sample_name)
+label<-gsub(".abundance.*","",sample_name)
+#label<-gsub("_S.*","",sample_name)
 
 for (i in 1:length(sample_name)){
   abundance<-read.delim(paste(sample_name[i],"/","abundance.tsv",sep=""))
